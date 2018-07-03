@@ -1372,6 +1372,18 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qWJlYrJ9mV {
+  background: #ffffff;
+}
+.cid-qWJlYrJ9mV .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qWJlYrJ9mV .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qWEF53lPqO {
   background: #ffffff;
 }
