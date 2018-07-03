@@ -1372,18 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qWJlYrJ9mV {
-  background: #ffffff;
-}
-.cid-qWJlYrJ9mV .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-qWJlYrJ9mV .video-block {
-    width: 100% !important;
-  }
-}
 .cid-qWEF53lPqO {
   background: #ffffff;
 }
@@ -1409,9 +1397,9 @@ body {
   text-align: left;
 }
 .cid-qWECQ6tQY6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #ff3366, #149dcc);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 .cid-qWECQ6tQY6 .list-group-item {
   padding: .75rem 3.25rem;
