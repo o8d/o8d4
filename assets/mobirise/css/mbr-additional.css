@@ -1522,7 +1522,7 @@ body {
   }
 }
 .cid-qXd1VdXlNV {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -1587,7 +1587,7 @@ body {
   }
 }
 .cid-qXdaqrq4oR {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
@@ -1652,7 +1652,7 @@ body {
   }
 }
 .cid-qXdv49bOWD {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -1717,7 +1717,7 @@ body {
   }
 }
 .cid-qXdyxGMEVa {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
@@ -1781,10 +1781,34 @@ body {
     padding: 0 0 2rem 0 !important;
   }
 }
+.cid-qXdOMRWf59 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #cccccc;
+}
+.cid-qXdOMRWf59 .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qXdOMRWf59 .section-text {
+  padding: 2rem 0;
+  color: #483e3e;
+}
+.cid-qXdOMRWf59 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qXdOMRWf59 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qX7q63RkM1 {
-  padding-top: 120px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-qX7q63RkM1 .mbr-section-subtitle {
   color: #1f1321;
