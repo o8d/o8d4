@@ -436,7 +436,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#b11230"
+              "color": "#1f1321"
             },
             ".mbr-section-subtitle B": {
               "color": "#1f1321"
