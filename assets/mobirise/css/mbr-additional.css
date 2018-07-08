@@ -1516,6 +1516,25 @@ body {
     width: 100% !important;
   }
 }
+.cid-qXd1VdXlNV {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qXd1VdXlNV .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qXd1VdXlNV .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-qXd1VdXlNV .mbr-text {
+  color: #767676;
+  text-align: left;
+}
 .cid-qX7q63RkM1 {
   padding-top: 120px;
   padding-bottom: 0px;
