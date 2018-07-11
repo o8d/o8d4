@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 106,
+    "uniqCompNum": 107,
     "versionPublish": "4.8.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -299,6 +299,24 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>葛洛力 X 恣睢麻利<br><br></b><div>曾在２０１５年&lt;我們的戒菸失敗&gt;手作詩集熱賣之時登場合唱過。 &nbsp;</div><div>２０１８初夏，時隔了３年，麻利的詩集經由逗點出版社全新重版出來之際，O8D MARKET 邀約葛洛力與恣睢麻利一同再次合唱，除了&lt;我們戒菸失敗詩&gt;詩歌幾則之後，在生活與生存的細縫間又陸續產生了一些新作，將在我們都大好き的台南來說說唱唱！僅引用麻利【工人未滿】最末句來，聊表本次公演的心意：</div><div>『我期待著 不遠的<span style=\"font-size: 1rem;\">下一次友好重逢，骨肉皮 愛你！』</span></div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qXtxdHFU99",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-2y"
         },
         {
           "_styles": {
