@@ -40,8 +40,8 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.7.0",
-    "uniqCompNum": 118,
-    "versionPublish": "4.8.0",
+    "uniqCompNum": 119,
+    "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -2011,6 +2011,26 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_inherit": "soundcloud1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/dadoor-dakai/20180728-glory-o8d-market",
+            "autoplay": true,
+            "fullWidth": true,
+            "bgColor": "#cebfaf"
+          },
+          "alias": "soundcloud",
+          "_tags": [
+            "扩展"
+          ],
+          "_afterNavbarItem": false,
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F595098150&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F595098150",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-3a"
         },
         {
           "_styles": {
